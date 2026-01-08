@@ -114,7 +114,7 @@ export default function Index() {
             <div className="max-w-4xl mx-auto text-center animate-fade-in">
               <Badge className="mb-4" variant="secondary">Государственное бюджетное учреждение</Badge>
               <h1 className="text-4xl md:text-6xl font-bold text-secondary mb-6 leading-tight">
-                Информационно-технологический центр Республики Башкортостан
+                Информационно-технологический центр Республики Бурятия
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
                 Современные ИТ-решения для цифровой трансформации государственных и коммерческих организаций
@@ -163,7 +163,7 @@ export default function Index() {
                   <CardContent>
                     <CardDescription className="text-base">
                       Обеспечение надежной и современной информационно-технологической инфраструктуры для государственных 
-                      учреждений и организаций Республики Башкортостан
+                      учреждений и организаций Республики Бурятия
                     </CardDescription>
                   </CardContent>
                 </Card>
@@ -274,8 +274,8 @@ export default function Index() {
                       </CardTitle>
                     </CardHeader>
                     <CardContent>
-                      <p className="text-muted-foreground">г. Уфа, ул. Ленина, д. 1</p>
-                      <p className="text-muted-foreground">Республика Башкортостан, 450000</p>
+                      <p className="text-muted-foreground">г. Улан-Удэ, ул. Ленина, д. 1</p>
+                      <p className="text-muted-foreground">Республика Бурятия, 670000</p>
                     </CardContent>
                   </Card>
 
@@ -287,7 +287,7 @@ export default function Index() {
                       </CardTitle>
                     </CardHeader>
                     <CardContent>
-                      <p className="text-muted-foreground">+7 (347) 123-45-67</p>
+                      <p className="text-muted-foreground">+7 (301) 123-45-67</p>
                       <p className="text-sm text-muted-foreground/70 mt-1">Пн-Пт: 9:00 - 18:00</p>
                     </CardContent>
                   </Card>
@@ -347,7 +347,7 @@ export default function Index() {
                   </div>
                 </div>
                 <p className="text-sm text-white/70">
-                  Информационно-технологический центр Республики Башкортостан
+                  Информационно-технологический центр Республики Бурятия
                 </p>
               </div>
               
@@ -364,8 +364,8 @@ export default function Index() {
               <div>
                 <h4 className="font-semibold mb-4">Контакты</h4>
                 <ul className="space-y-2 text-sm text-white/70">
-                  <li>г. Уфа, ул. Ленина, д. 1</li>
-                  <li>+7 (347) 123-45-67</li>
+                  <li>г. Улан-Удэ, ул. Ленина, д. 1</li>
+                  <li>+7 (301) 123-45-67</li>
                   <li>info@itc-rb.ru</li>
                 </ul>
               </div>
